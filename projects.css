@@ -1,0 +1,18 @@
+.links a{
+    color: rgba(255 , 255, 255, 0.5);
+    transition: 0.2s all;
+}
+
+.links a:hover{
+    color: rgba(255 , 255, 255, 1);
+    text-decoration: none;
+}
+
+.icon_link a{
+    opacity: 0.5;
+    transition: 0.2s all;
+}
+
+.icon_link a:hover{
+    opacity: 1;
+}
